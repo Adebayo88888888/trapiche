@@ -16,6 +16,7 @@ By integrating both views, Trapiche improves accuracy and robustness in biome cl
 
 ![](assets/trapiche_workflow.png)
 
+
 ## Install
 
 Requirements
