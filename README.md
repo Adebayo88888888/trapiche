@@ -137,7 +137,6 @@ trapiche input.ndjson
 
 ## Quick start (Python API)
 
-
 End-to-end workflow over sample records
 
 Uses a sequence of dicts (one dict is one sample). The recommended approach is to supply external labels via `ext_text_pred_project`; the built-in classifier is used automatically as a fallback when those keys are absent.
